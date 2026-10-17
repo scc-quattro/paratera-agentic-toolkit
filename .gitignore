@@ -1,0 +1,16 @@
+.venv/
+.cache/
+.paratera/
+plans/
+output/
+transfer/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+access_keys.txt
+*credentials*.json
+*.pem
+*.key
+!examples/credentials.example.json

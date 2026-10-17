@@ -1,0 +1,9 @@
+# Official SDK installed separately from its vendor URL, with SHA-256 verified.
+# aicloud_sdk_python-3.0-py3-none-any.whl
+# sha256: f8070db632ce0729f802d86e96962976fb05437389bee04442cfb3d8dc18f168
+certifi==2026.7.22
+charset-normalizer==3.5.2
+idna==3.20
+requests==2.34.2
+typing-extensions==4.16.0
+urllib3==2.8.0

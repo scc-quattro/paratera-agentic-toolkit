@@ -1,0 +1,20 @@
+{
+  "payload": {
+    "zoneCode": "REPLACE_FROM_LIVE_CATALOG",
+    "serviceModel": "REPLACE_WITH_FULL_SINGLE_GPU_MODEL",
+    "imageUuid": "REPLACE_WITH_YOUR_IMAGE_UUID",
+    "aliasName": "agent-cloud-replace-with-unique-alias",
+    "billingType": "PostPaid",
+    "autoContinue": false,
+    "count": 1
+  },
+  "currency": "CNY",
+  "unit": "hour",
+  "hourly_price": null,
+  "max_compute_cost": null,
+  "max_minutes": 30,
+  "pricing_sources": [
+    "https://ai.paratera.com/document/container",
+    "https://ai.paratera.com/document/billing"
+  ]
+}
